@@ -1,0 +1,21 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.main-header{
+    background-color: aquamarine;
+}
+.name{
+    display: inline-block;
+    background-color: aqua;
+    padding-right: 20px;
+}
+h2, h3{
+    display: inline-block;
+}
+.main-text{
+    background-color: rebeccapurple;
+}
+.main-text p{
+    color: aliceblue;
+}
